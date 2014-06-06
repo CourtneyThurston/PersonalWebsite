@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+
+Redirect 301 "/mobile/example.html" "http://www.courtneythurston.com/mobile/index.html"
+Redirect 301 "/example.html" "http://www.courtneythurston.com/index.html"
